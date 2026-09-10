@@ -66,7 +66,7 @@ are required.
 
 ## Compatibility
 
-Android 10 and above. Tested on Pixel 8 Pro; other devices may vary.
+Android 10 and above. Tested on Pixel 8 Pro and Samsung devices.
 
 ## Privacy
 
