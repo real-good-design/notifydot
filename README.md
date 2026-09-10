@@ -36,6 +36,11 @@ screen, Chrome, other apps — until you check. No sound. No vibration.
 No banners. Just a persistent, impossible-to-miss "hey, something's waiting"
 for the few apps you never want to miss.
 
+### Why not just use notification badges?
+
+Badges live on your launcher icons — you can't see them while you're inside
+another app. NotifyDot's dot floats on top of whatever you're doing.
+
 ## Status: early beta
 
 This app is currently distributed outside Google Play as an early beta.
