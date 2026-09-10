@@ -21,21 +21,20 @@ Open the app → the notification is considered checked → the dot disappears.
 
 ## Why
 
-There are a few apps whose messages you never want to miss — but you also
-don't want your phone to buzz, ring, or pop up banners for them. Maybe it's
-WeChat during work hours. Maybe it's a messaging app at night.
+Have you ever silenced WeChat to survive a workday, then missed an important
+message because Android hid the silent icon and you never pulled down the
+shade?
 
-The problem: status-bar notification icons are easy to miss. They get
-squeezed out by a crowded status bar, disappear in full-screen apps, or
-pile up unnoticed while you're away from your phone.
+Have you ever turned the icon back on, only to have it squeezed out by a
+crowded status bar or disappear inside a full-screen app?
 
-NotifyDot gives those few apps a persistent, impossible-to-miss indicator:
-a red dot that floats on top of everything — your home screen, Chrome,
-other apps — until you open the app and check. No noise. No interruption.
-Just a quiet "hey, something's waiting" that doesn't go away on its own.
+Have you ever turned the sound on instead, then winced as it rang through
+a meeting — or walked back to your phone and realized the moment had passed?
 
-Pick the apps you never want to miss → a red dot appears when they have
-pending notifications → it disappears when you open the app.
+NotifyDot is a small red dot that stays on top of everything — your home
+screen, Chrome, other apps — until you check. No sound. No vibration.
+No banners. Just a persistent, impossible-to-miss "hey, something's waiting"
+for the few apps you never want to miss.
 
 ## Status: early beta
 
