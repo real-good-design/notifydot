@@ -37,6 +37,11 @@ It is free, has no ads, no account, and no analytics.
   select. Notification *contents* (title, text, sender) are never read,
   stored, or transmitted anywhere. Only "this app has something unchecked"
   is used.
+- On newer Android versions, the notification access page for NotifyDot may
+  show four toggles (Real-time, Conversations, Notifications, Silent). Only
+  **Silent** needs to stay on — that's the only kind NotifyDot looks at. If
+  you care about privacy, turn the other three off; leaving the defaults
+  (all on) works fine too.
 - **Display over other apps** — to draw the red dot on top of other apps.
 - **Ignore battery optimizations** — so the dot keeps working reliably in
   the background.
