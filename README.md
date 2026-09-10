@@ -2,11 +2,22 @@
 
 **Never miss what matters. Without being interrupted.**
 
-NotifyDot puts a small red dot over other apps when the apps you choose have
-notifications you haven't checked yet. The dot stays there until you check
-them. No sound. No vibration. No banners.
+NotifyDot puts a small red dot on your screen when selected apps have unread
+notifications. The dot stays visible over other apps until you check them.
+No sound. No vibration. No banners.
 
 ![NotifyDot demo](notifydot-demo.gif)
+
+NotifyDot never reads, stores, or transmits notification contents. It only
+detects whether a selected app has a pending notification.
+
+## How it works
+
+1. Choose the apps you don't want to miss.
+2. Grant Notification Access and overlay permission.
+3. A red dot appears whenever one of those apps has a pending notification.
+
+Open the app → the notification is considered checked → the dot disappears.
 
 ## Why
 
@@ -52,6 +63,10 @@ Download the APK from
 [Releases](../../releases),
 install it, and complete the 3-step setup inside the app. All three grants
 are required.
+
+## Compatibility
+
+Android 10 and above. Tested on Pixel 8 Pro; other devices may vary.
 
 ## Privacy
 
