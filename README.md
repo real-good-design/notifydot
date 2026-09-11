@@ -73,7 +73,8 @@ are required.
 
 ## Compatibility
 
-Android 10 and above. Tested on Pixel 8 Pro and Samsung devices.
+Android 10 and above. Tested on Pixel 8 Pro (Android 17) and Galaxy S24 FE
+(One UI 8.5, Android 16).
 
 ## Privacy
 
