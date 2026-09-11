@@ -38,8 +38,11 @@ for the few apps you never want to miss.
 
 ### Why not just use notification badges?
 
-Badges live on your launcher icons — you can't see them while you're inside
-another app. NotifyDot's dot floats on top of whatever you're doing.
+Badges live on your launcher icons — invisible while you're inside another
+app. Worse, many launchers only offer a global badge switch: all apps or
+none, no way to enable badges for just the one or two apps you care about.
+NotifyDot lets you pick exactly those apps, and the dot floats on top of
+whatever you're doing.
 
 ## Status: early beta
 
