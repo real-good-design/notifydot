@@ -8,8 +8,9 @@ No sound. No vibration. No banners.
 
 ![NotifyDot demo](notifydot-demo.gif)
 
-NotifyDot never reads, stores, or transmits notification contents. It only
-detects whether a selected app has a pending notification.
+NotifyDot never reads or accesses notification contents — not the text, not
+the sender, nothing. It only detects whether a selected app has a pending
+notification.
 
 ## How it works
 
@@ -52,9 +53,9 @@ It is free, has no ads, no account, and no analytics.
 ## Permissions — and why each one is needed
 
 - **Notification access** — to detect pending notifications from the apps you
-  select. Notification *contents* (title, text, sender) are never read,
-  stored, or transmitted anywhere. Only "this app has something unchecked"
-  is used.
+  select. Notification *contents* (title, text, sender) are never read or
+  accessed — let alone stored or transmitted anywhere. Only "this app has
+  something unchecked" is used.
 - On newer Android versions, the notification access page for NotifyDot may
   show four toggles (Real-time, Conversations, Notifications, Silent).
   NotifyDot watches all notification types from your selected apps — keep
